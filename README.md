@@ -22,9 +22,6 @@ This project demonstrates the creation and styling of various buttons inspired b
 2. Open `index.html` in your browser to view the buttons and styles.
 3. Modify the `style.css` to customize the styles.
 
-## 📸 Preview
-![Preview of Buttons and Styles](#)
-
 ## 🌟 Credits
 Created with ❤️ for learning and practicing HTML & CSS.
 
